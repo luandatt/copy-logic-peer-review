@@ -25,4 +25,4 @@ Copy `SKILL.md` into your Claude Code skills directory as `~/.claude/skills/copy
 
 ## Usage
 
-Trigger it by asking to "rodar um peer review" / "testar a headline com um grupo de pares" on a sales letter, ad, or newsletter/email lead.
+Trigger it by asking to "run a peer review" / "test the headline with a peer group" on a sales letter, ad, or newsletter/email lead.
