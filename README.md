@@ -11,7 +11,17 @@ A Claude Code skill that simulates the AWAI-style "Peer Review" meeting for a sa
 
 ## Install
 
-Copy `copy-peer-review/SKILL.md` into your Claude Code skills directory (e.g. `~/.claude/skills/copy-peer-review/`).
+Via [skills.sh](https://www.skills.sh) (recommended):
+
+```
+npx skills add luandatt/copy-logic-peer-review
+```
+
+This picks up `SKILL.md` from the repo root and installs it for Claude Code automatically. Pass `-a claude-code` if you want to target Claude Code specifically (omit it to install for all supported agents), and run `npx skills list` afterward to confirm it's installed.
+
+Manual install:
+
+Copy `SKILL.md` into your Claude Code skills directory as `~/.claude/skills/copy-peer-review/SKILL.md`.
 
 ## Usage
 
